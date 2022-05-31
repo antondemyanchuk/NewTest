@@ -1,2 +1,3 @@
 This file created for git learning
 Now I am trying to change it in browser and to synchronize with my laptops local repo  
+Eddition using GIT GUI
